@@ -1,0 +1,11 @@
+new.txt
+/Old/
+/__pycache__/
+/Additional files/
+/Data/
+/Icons/*.svg
+/Report/
+/Results/
+/Screenshots/
+/Videos/
+capstone.code-workspace
